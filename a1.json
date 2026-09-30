@@ -1,14 +1,62 @@
 [
   {
+    "id": 1,
     "english": "apple",
-    "uzbek": "olma"
+    "uzbek": "olma",
+    "example": "I eat an apple every day."
   },
   {
+    "id": 2,
     "english": "book",
-    "uzbek": "kitob"
+    "uzbek": "kitob",
+    "example": "This is my book."
   },
   {
+    "id": 3,
     "english": "water",
-    "uzbek": "suv"
+    "uzbek": "suv",
+    "example": "I drink water every morning."
+  },
+  {
+    "id": 4,
+    "english": "house",
+    "uzbek": "uy",
+    "example": "This is my house."
+  },
+  {
+    "id": 5,
+    "english": "car",
+    "uzbek": "mashina",
+    "example": "My car is new."
+  },
+  {
+    "id": 6,
+    "english": "school",
+    "uzbek": "maktab",
+    "example": "I go to school every day."
+  },
+  {
+    "id": 7,
+    "english": "friend",
+    "uzbek": "do'st",
+    "example": "He is my best friend."
+  },
+  {
+    "id": 8,
+    "english": "food",
+    "uzbek": "ovqat",
+    "example": "The food is delicious."
+  },
+  {
+    "id": 9,
+    "english": "mother",
+    "uzbek": "ona",
+    "example": "My mother is at home."
+  },
+  {
+    "id": 10,
+    "english": "father",
+    "uzbek": "ota",
+    "example": "My father works every day."
   }
 ]
