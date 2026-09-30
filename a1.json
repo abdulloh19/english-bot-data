@@ -39,13 +39,13 @@
     "id": 7,
     "english": "friend",
     "uzbek": "do'st",
-    "example": "He is my best friend."
+    "example": "He is my friend."
   },
   {
     "id": 8,
     "english": "food",
     "uzbek": "ovqat",
-    "example": "The food is delicious."
+    "example": "The food is good."
   },
   {
     "id": 9,
@@ -57,6 +57,1147 @@
     "id": 10,
     "english": "father",
     "uzbek": "ota",
-    "example": "My father works every day."
+    "example": "My father is at work."
+  },
+  {
+    "id": 11,
+    "english": "brother",
+    "uzbek": "aka-uka",
+    "example": "My brother is a student."
+  },
+  {
+    "id": 12,
+    "english": "sister",
+    "uzbek": "opa-singil",
+    "example": "My sister is ten years old."
+  },
+  {
+    "id": 13,
+    "english": "family",
+    "uzbek": "oila",
+    "example": "I love my family."
+  },
+  {
+    "id": 14,
+    "english": "name",
+    "uzbek": "ism",
+    "example": "My name is Ali."
+  },
+  {
+    "id": 15,
+    "english": "day",
+    "uzbek": "kun",
+    "example": "Today is a good day."
+  },
+  {
+    "id": 16,
+    "english": "night",
+    "uzbek": "tun",
+    "example": "It is cold at night."
+  },
+  {
+    "id": 17,
+    "english": "morning",
+    "uzbek": "ertalab",
+    "example": "I study in the morning."
+  },
+  {
+    "id": 18,
+    "english": "evening",
+    "uzbek": "kechqurun",
+    "example": "We watch TV in the evening."
+  },
+  {
+    "id": 19,
+    "english": "time",
+    "uzbek": "vaqt",
+    "example": "What time is it?"
+  },
+  {
+    "id": 20,
+    "english": "today",
+    "uzbek": "bugun",
+    "example": "I am busy today."
+  },
+  {
+    "id": 21,
+    "english": "tomorrow",
+    "uzbek": "ertaga",
+    "example": "I will see you tomorrow."
+  },
+  {
+    "id": 22,
+    "english": "yesterday",
+    "uzbek": "kecha",
+    "example": "I was at home yesterday."
+  },
+  {
+    "id": 23,
+    "english": "man",
+    "uzbek": "erkak",
+    "example": "The man is my teacher."
+  },
+  {
+    "id": 24,
+    "english": "woman",
+    "uzbek": "ayol",
+    "example": "The woman is a doctor."
+  },
+  {
+    "id": 25,
+    "english": "boy",
+    "uzbek": "o'g'il bola",
+    "example": "The boy is playing."
+  },
+  {
+    "id": 26,
+    "english": "girl",
+    "uzbek": "qiz bola",
+    "example": "The girl has a red bag."
+  },
+  {
+    "id": 27,
+    "english": "child",
+    "uzbek": "bola",
+    "example": "The child is sleeping."
+  },
+  {
+    "id": 28,
+    "english": "teacher",
+    "uzbek": "o'qituvchi",
+    "example": "My teacher is very kind."
+  },
+  {
+    "id": 29,
+    "english": "student",
+    "uzbek": "o'quvchi",
+    "example": "I am a student."
+  },
+  {
+    "id": 30,
+    "english": "doctor",
+    "uzbek": "shifokor",
+    "example": "She is a doctor."
+  },
+  {
+    "id": 31,
+    "english": "work",
+    "uzbek": "ish",
+    "example": "I go to work at eight."
+  },
+  {
+    "id": 32,
+    "english": "job",
+    "uzbek": "kasb",
+    "example": "He has a good job."
+  },
+  {
+    "id": 33,
+    "english": "room",
+    "uzbek": "xona",
+    "example": "My room is small."
+  },
+  {
+    "id": 34,
+    "english": "door",
+    "uzbek": "eshik",
+    "example": "Please close the door."
+  },
+  {
+    "id": 35,
+    "english": "window",
+    "uzbek": "deraza",
+    "example": "Open the window, please."
+  },
+  {
+    "id": 36,
+    "english": "table",
+    "uzbek": "stol",
+    "example": "The book is on the table."
+  },
+  {
+    "id": 37,
+    "english": "chair",
+    "uzbek": "stul",
+    "example": "Sit on the chair."
+  },
+  {
+    "id": 38,
+    "english": "bed",
+    "uzbek": "karavot",
+    "example": "The cat is on the bed."
+  },
+  {
+    "id": 39,
+    "english": "phone",
+    "uzbek": "telefon",
+    "example": "My phone is in my bag."
+  },
+  {
+    "id": 40,
+    "english": "computer",
+    "uzbek": "kompyuter",
+    "example": "I use a computer at work."
+  },
+  {
+    "id": 41,
+    "english": "bag",
+    "uzbek": "sumka",
+    "example": "This is my school bag."
+  },
+  {
+    "id": 42,
+    "english": "pen",
+    "uzbek": "ruchka",
+    "example": "I have a blue pen."
+  },
+  {
+    "id": 43,
+    "english": "pencil",
+    "uzbek": "qalam",
+    "example": "Write your name with a pencil."
+  },
+  {
+    "id": 44,
+    "english": "paper",
+    "uzbek": "qog'oz",
+    "example": "The paper is white."
+  },
+  {
+    "id": 45,
+    "english": "picture",
+    "uzbek": "rasm",
+    "example": "This is a beautiful picture."
+  },
+  {
+    "id": 46,
+    "english": "dog",
+    "uzbek": "it",
+    "example": "The dog is in the garden."
+  },
+  {
+    "id": 47,
+    "english": "cat",
+    "uzbek": "mushuk",
+    "example": "My cat is white."
+  },
+  {
+    "id": 48,
+    "english": "bird",
+    "uzbek": "qush",
+    "example": "The bird is in the tree."
+  },
+  {
+    "id": 49,
+    "english": "fish",
+    "uzbek": "baliq",
+    "example": "I can see a fish in the water."
+  },
+  {
+    "id": 50,
+    "english": "tree",
+    "uzbek": "daraxt",
+    "example": "There is a big tree near the house."
+  },
+  {
+    "id": 51,
+    "english": "flower",
+    "uzbek": "gul",
+    "example": "This flower is yellow."
+  },
+  {
+    "id": 52,
+    "english": "sun",
+    "uzbek": "quyosh",
+    "example": "The sun is hot."
+  },
+  {
+    "id": 53,
+    "english": "moon",
+    "uzbek": "oy",
+    "example": "The moon is bright tonight."
+  },
+  {
+    "id": 54,
+    "english": "rain",
+    "uzbek": "yomg'ir",
+    "example": "I do not like the rain."
+  },
+  {
+    "id": 55,
+    "english": "snow",
+    "uzbek": "qor",
+    "example": "The children play in the snow."
+  },
+  {
+    "id": 56,
+    "english": "hot",
+    "uzbek": "issiq",
+    "example": "It is hot today."
+  },
+  {
+    "id": 57,
+    "english": "cold",
+    "uzbek": "sovuq",
+    "example": "The water is cold."
+  },
+  {
+    "id": 58,
+    "english": "big",
+    "uzbek": "katta",
+    "example": "They live in a big house."
+  },
+  {
+    "id": 59,
+    "english": "small",
+    "uzbek": "kichik",
+    "example": "I have a small room."
+  },
+  {
+    "id": 60,
+    "english": "good",
+    "uzbek": "yaxshi",
+    "example": "This is a good book."
+  },
+  {
+    "id": 61,
+    "english": "bad",
+    "uzbek": "yomon",
+    "example": "The weather is bad today."
+  },
+  {
+    "id": 62,
+    "english": "new",
+    "uzbek": "yangi",
+    "example": "I have a new phone."
+  },
+  {
+    "id": 63,
+    "english": "old",
+    "uzbek": "eski",
+    "example": "This is an old house."
+  },
+  {
+    "id": 64,
+    "english": "young",
+    "uzbek": "yosh",
+    "example": "He is a young man."
+  },
+  {
+    "id": 65,
+    "english": "happy",
+    "uzbek": "xursand",
+    "example": "I am happy today."
+  },
+  {
+    "id": 66,
+    "english": "sad",
+    "uzbek": "xafa",
+    "example": "She is sad today."
+  },
+  {
+    "id": 67,
+    "english": "easy",
+    "uzbek": "oson",
+    "example": "This question is easy."
+  },
+  {
+    "id": 68,
+    "english": "difficult",
+    "uzbek": "qiyin",
+    "example": "This exercise is difficult."
+  },
+  {
+    "id": 69,
+    "english": "fast",
+    "uzbek": "tez",
+    "example": "This car is fast."
+  },
+  {
+    "id": 70,
+    "english": "slow",
+    "uzbek": "sekin",
+    "example": "The bus is slow."
+  },
+  {
+    "id": 71,
+    "english": "eat",
+    "uzbek": "yemoq",
+    "example": "I eat breakfast at seven."
+  },
+  {
+    "id": 72,
+    "english": "drink",
+    "uzbek": "ichmoq",
+    "example": "I drink tea every morning."
+  },
+  {
+    "id": 73,
+    "english": "go",
+    "uzbek": "bormoq",
+    "example": "I go to school by bus."
+  },
+  {
+    "id": 74,
+    "english": "come",
+    "uzbek": "kelmoq",
+    "example": "Please come to my house."
+  },
+  {
+    "id": 75,
+    "english": "see",
+    "uzbek": "ko'rmoq",
+    "example": "I can see the mountains."
+  },
+  {
+    "id": 76,
+    "english": "look",
+    "uzbek": "qaramoq",
+    "example": "Look at this picture."
+  },
+  {
+    "id": 77,
+    "english": "read",
+    "uzbek": "o'qimoq",
+    "example": "I read a book every evening."
+  },
+  {
+    "id": 78,
+    "english": "write",
+    "uzbek": "yozmoq",
+    "example": "Write your name here."
+  },
+  {
+    "id": 79,
+    "english": "speak",
+    "uzbek": "gapirmoq",
+    "example": "I speak English a little."
+  },
+  {
+    "id": 80,
+    "english": "listen",
+    "uzbek": "tinglamoq",
+    "example": "Listen to the teacher."
+  },
+  {
+    "id": 81,
+    "english": "learn",
+    "uzbek": "o'rganmoq",
+    "example": "I want to learn English."
+  },
+  {
+    "id": 82,
+    "english": "study",
+    "uzbek": "o'qib o'rganmoq",
+    "example": "I study English every day."
+  },
+  {
+    "id": 83,
+    "english": "play",
+    "uzbek": "o'ynamoq",
+    "example": "The children play football."
+  },
+  {
+    "id": 84,
+    "english": "walk",
+    "uzbek": "piyoda yurmoq",
+    "example": "I walk to school."
+  },
+  {
+    "id": 85,
+    "english": "run",
+    "uzbek": "yugurmoq",
+    "example": "I run in the park."
+  },
+  {
+    "id": 86,
+    "english": "sleep",
+    "uzbek": "uxlamoq",
+    "example": "I sleep eight hours every night."
+  },
+  {
+    "id": 87,
+    "english": "sit",
+    "uzbek": "o'tirmoq",
+    "example": "Please sit here."
+  },
+  {
+    "id": 88,
+    "english": "stand",
+    "uzbek": "turmoq",
+    "example": "Please stand near the door."
+  },
+  {
+    "id": 89,
+    "english": "open",
+    "uzbek": "ochmoq",
+    "example": "Open the book."
+  },
+  {
+    "id": 90,
+    "english": "close",
+    "uzbek": "yopmoq",
+    "example": "Close the window, please."
+  },
+  {
+    "id": 91,
+    "english": "buy",
+    "uzbek": "sotib olmoq",
+    "example": "I want to buy a new bag."
+  },
+  {
+    "id": 92,
+    "english": "give",
+    "uzbek": "bermoq",
+    "example": "Please give me the book."
+  },
+  {
+    "id": 93,
+    "english": "take",
+    "uzbek": "olmoq",
+    "example": "Take your phone with you."
+  },
+  {
+    "id": 94,
+    "english": "make",
+    "uzbek": "tayyorlamoq",
+    "example": "My mother makes dinner."
+  },
+  {
+    "id": 95,
+    "english": "help",
+    "uzbek": "yordam bermoq",
+    "example": "Can you help me?"
+  },
+  {
+    "id": 96,
+    "english": "like",
+    "uzbek": "yoqtirmoq",
+    "example": "I like English."
+  },
+  {
+    "id": 97,
+    "english": "want",
+    "uzbek": "xohlamoq",
+    "example": "I want some water."
+  },
+  {
+    "id": 98,
+    "english": "need",
+    "uzbek": "kerak bo'lmoq",
+    "example": "I need a new pen."
+  },
+  {
+    "id": 99,
+    "english": "know",
+    "uzbek": "bilmoq",
+    "example": "I know the answer."
+  },
+  {
+    "id": 100,
+    "english": "understand",
+    "uzbek": "tushunmoq",
+    "example": "I understand this question."
+  },
+  {
+    "id": 101,
+    "english": "live",
+    "uzbek": "yashamoq",
+    "example": "I live in Tashkent."
+  },
+  {
+    "id": 102,
+    "english": "love",
+    "uzbek": "sevmoq",
+    "example": "I love my family."
+  },
+  {
+    "id": 103,
+    "english": "watch",
+    "uzbek": "tomosha qilmoq",
+    "example": "We watch TV in the evening."
+  },
+  {
+    "id": 104,
+    "english": "work",
+    "uzbek": "ishlamoq",
+    "example": "I work from Monday to Friday."
+  },
+  {
+    "id": 105,
+    "english": "cook",
+    "uzbek": "ovqat pishirmoq",
+    "example": "My mother cooks dinner."
+  },
+  {
+    "id": 106,
+    "english": "clean",
+    "uzbek": "tozalamoq",
+    "example": "I clean my room every week."
+  },
+  {
+    "id": 107,
+    "english": "wash",
+    "uzbek": "yuvmoq",
+    "example": "I wash my hands before eating."
+  },
+  {
+    "id": 108,
+    "english": "call",
+    "uzbek": "qo'ng'iroq qilmoq",
+    "example": "I call my friend every day."
+  },
+  {
+    "id": 109,
+    "english": "ask",
+    "uzbek": "so'ramoq",
+    "example": "I ask the teacher a question."
+  },
+  {
+    "id": 110,
+    "english": "answer",
+    "uzbek": "javob bermoq",
+    "example": "Please answer the question."
+  },
+  {
+    "id": 111,
+    "english": "start",
+    "uzbek": "boshlamoq",
+    "example": "The lesson starts at nine."
+  },
+  {
+    "id": 112,
+    "english": "finish",
+    "uzbek": "tugatmoq",
+    "example": "I finish work at six."
+  },
+  {
+    "id": 113,
+    "english": "wait",
+    "uzbek": "kutmoq",
+    "example": "Please wait here."
+  },
+  {
+    "id": 114,
+    "english": "meet",
+    "uzbek": "uchrashmoq",
+    "example": "I meet my friends on Sunday."
+  },
+  {
+    "id": 115,
+    "english": "visit",
+    "uzbek": "tashrif buyurmoq",
+    "example": "We visit our grandparents every month."
+  },
+  {
+    "id": 116,
+    "english": "travel",
+    "uzbek": "sayohat qilmoq",
+    "example": "I like to travel by train."
+  },
+  {
+    "id": 117,
+    "english": "drive",
+    "uzbek": "haydamoq",
+    "example": "My father drives to work."
+  },
+  {
+    "id": 118,
+    "english": "ride",
+    "uzbek": "minmoq",
+    "example": "I ride my bike to school."
+  },
+  {
+    "id": 119,
+    "english": "swim",
+    "uzbek": "suzmoq",
+    "example": "I can swim well."
+  },
+  {
+    "id": 120,
+    "english": "dance",
+    "uzbek": "raqsga tushmoq",
+    "example": "They dance at the party."
+  },
+  {
+    "id": 121,
+    "english": "sing",
+    "uzbek": "kuylamoq",
+    "example": "She can sing very well."
+  },
+  {
+    "id": 122,
+    "english": "draw",
+    "uzbek": "rasm chizmoq",
+    "example": "The child likes to draw."
+  },
+  {
+    "id": 123,
+    "english": "smile",
+    "uzbek": "jilmaymoq",
+    "example": "She smiles at me."
+  },
+  {
+    "id": 124,
+    "english": "laugh",
+    "uzbek": "kulmoq",
+    "example": "The children laugh a lot."
+  },
+  {
+    "id": 125,
+    "english": "cry",
+    "uzbek": "yig'lamoq",
+    "example": "The baby is crying."
+  },
+  {
+    "id": 126,
+    "english": "breakfast",
+    "uzbek": "nonushta",
+    "example": "I have breakfast at seven."
+  },
+  {
+    "id": 127,
+    "english": "lunch",
+    "uzbek": "tushlik",
+    "example": "We have lunch at one."
+  },
+  {
+    "id": 128,
+    "english": "dinner",
+    "uzbek": "kechki ovqat",
+    "example": "Dinner is ready."
+  },
+  {
+    "id": 129,
+    "english": "bread",
+    "uzbek": "non",
+    "example": "I eat bread with soup."
+  },
+  {
+    "id": 130,
+    "english": "rice",
+    "uzbek": "guruch",
+    "example": "We eat rice for dinner."
+  },
+  {
+    "id": 131,
+    "english": "meat",
+    "uzbek": "go'sht",
+    "example": "I do not eat much meat."
+  },
+  {
+    "id": 132,
+    "english": "chicken",
+    "uzbek": "tovuq go'shti",
+    "example": "I like chicken and rice."
+  },
+  {
+    "id": 133,
+    "english": "egg",
+    "uzbek": "tuxum",
+    "example": "I eat an egg for breakfast."
+  },
+  {
+    "id": 134,
+    "english": "milk",
+    "uzbek": "sut",
+    "example": "Children drink milk."
+  },
+  {
+    "id": 135,
+    "english": "tea",
+    "uzbek": "choy",
+    "example": "I drink tea in the morning."
+  },
+  {
+    "id": 136,
+    "english": "coffee",
+    "uzbek": "qahva",
+    "example": "He drinks coffee at work."
+  },
+  {
+    "id": 137,
+    "english": "juice",
+    "uzbek": "sharbat",
+    "example": "I want some orange juice."
+  },
+  {
+    "id": 138,
+    "english": "fruit",
+    "uzbek": "meva",
+    "example": "Fruit is good for you."
+  },
+  {
+    "id": 139,
+    "english": "banana",
+    "uzbek": "banan",
+    "example": "I eat a banana every morning."
+  },
+  {
+    "id": 140,
+    "english": "orange",
+    "uzbek": "apelsin",
+    "example": "This orange is sweet."
+  },
+  {
+    "id": 141,
+    "english": "vegetable",
+    "uzbek": "sabzavot",
+    "example": "We eat vegetables every day."
+  },
+  {
+    "id": 142,
+    "english": "potato",
+    "uzbek": "kartoshka",
+    "example": "I need two potatoes."
+  },
+  {
+    "id": 143,
+    "english": "tomato",
+    "uzbek": "pomidor",
+    "example": "The tomato is red."
+  },
+  {
+    "id": 144,
+    "english": "onion",
+    "uzbek": "piyoz",
+    "example": "I put onion in the soup."
+  },
+  {
+    "id": 145,
+    "english": "sugar",
+    "uzbek": "shakar",
+    "example": "Do you take sugar in your tea?"
+  },
+  {
+    "id": 146,
+    "english": "salt",
+    "uzbek": "tuz",
+    "example": "The soup needs more salt."
+  },
+  {
+    "id": 147,
+    "english": "city",
+    "uzbek": "shahar",
+    "example": "Tashkent is a big city."
+  },
+  {
+    "id": 148,
+    "english": "village",
+    "uzbek": "qishloq",
+    "example": "My grandparents live in a village."
+  },
+  {
+    "id": 149,
+    "english": "street",
+    "uzbek": "ko'cha",
+    "example": "Our house is on this street."
+  },
+  {
+    "id": 150,
+    "english": "road",
+    "uzbek": "yo'l",
+    "example": "The road is very busy."
+  },
+  {
+    "id": 151,
+    "english": "shop",
+    "uzbek": "do'kon",
+    "example": "The shop closes at eight."
+  },
+  {
+    "id": 152,
+    "english": "market",
+    "uzbek": "bozor",
+    "example": "We buy fruit at the market."
+  },
+  {
+    "id": 153,
+    "english": "bank",
+    "uzbek": "bank",
+    "example": "The bank is near the station."
+  },
+  {
+    "id": 154,
+    "english": "hospital",
+    "uzbek": "kasalxona",
+    "example": "She works in a hospital."
+  },
+  {
+    "id": 155,
+    "english": "restaurant",
+    "uzbek": "restoran",
+    "example": "We eat at this restaurant."
+  },
+  {
+    "id": 156,
+    "english": "hotel",
+    "uzbek": "mehmonxona",
+    "example": "We stay in a small hotel."
+  },
+  {
+    "id": 157,
+    "english": "park",
+    "uzbek": "bog'",
+    "example": "The children play in the park."
+  },
+  {
+    "id": 158,
+    "english": "station",
+    "uzbek": "bekat",
+    "example": "The train station is near here."
+  },
+  {
+    "id": 159,
+    "english": "airport",
+    "uzbek": "aeroport",
+    "example": "We are going to the airport."
+  },
+  {
+    "id": 160,
+    "english": "bus",
+    "uzbek": "avtobus",
+    "example": "I go to work by bus."
+  },
+  {
+    "id": 161,
+    "english": "train",
+    "uzbek": "poyezd",
+    "example": "The train leaves at ten."
+  },
+  {
+    "id": 162,
+    "english": "plane",
+    "uzbek": "samolyot",
+    "example": "The plane is in the sky."
+  },
+  {
+    "id": 163,
+    "english": "bicycle",
+    "uzbek": "velosiped",
+    "example": "My bicycle is new."
+  },
+  {
+    "id": 164,
+    "english": "ticket",
+    "uzbek": "chipta",
+    "example": "I need a bus ticket."
+  },
+  {
+    "id": 165,
+    "english": "money",
+    "uzbek": "pul",
+    "example": "I do not have much money."
+  },
+  {
+    "id": 166,
+    "english": "price",
+    "uzbek": "narx",
+    "example": "What is the price of this bag?"
+  },
+  {
+    "id": 167,
+    "english": "cheap",
+    "uzbek": "arzon",
+    "example": "This shirt is cheap."
+  },
+  {
+    "id": 168,
+    "english": "expensive",
+    "uzbek": "qimmat",
+    "example": "This phone is expensive."
+  },
+  {
+    "id": 169,
+    "english": "shirt",
+    "uzbek": "ko'ylak",
+    "example": "He is wearing a white shirt."
+  },
+  {
+    "id": 170,
+    "english": "dress",
+    "uzbek": "ayollar ko'ylagi",
+    "example": "She has a blue dress."
+  },
+  {
+    "id": 171,
+    "english": "trousers",
+    "uzbek": "shim",
+    "example": "These trousers are black."
+  },
+  {
+    "id": 172,
+    "english": "shoes",
+    "uzbek": "oyoq kiyim",
+    "example": "My shoes are new."
+  },
+  {
+    "id": 173,
+    "english": "hat",
+    "uzbek": "bosh kiyim",
+    "example": "He is wearing a hat."
+  },
+  {
+    "id": 174,
+    "english": "coat",
+    "uzbek": "palto",
+    "example": "Wear your coat because it is cold."
+  },
+  {
+    "id": 175,
+    "english": "color",
+    "uzbek": "rang",
+    "example": "What is your favorite color?"
+  },
+  {
+    "id": 176,
+    "english": "red",
+    "uzbek": "qizil",
+    "example": "The car is red."
+  },
+  {
+    "id": 177,
+    "english": "blue",
+    "uzbek": "ko'k",
+    "example": "The sky is blue."
+  },
+  {
+    "id": 178,
+    "english": "green",
+    "uzbek": "yashil",
+    "example": "The grass is green."
+  },
+  {
+    "id": 179,
+    "english": "yellow",
+    "uzbek": "sariq",
+    "example": "The flower is yellow."
+  },
+  {
+    "id": 180,
+    "english": "black",
+    "uzbek": "qora",
+    "example": "I have a black bag."
+  },
+  {
+    "id": 181,
+    "english": "white",
+    "uzbek": "oq",
+    "example": "The walls are white."
+  },
+  {
+    "id": 182,
+    "english": "brown",
+    "uzbek": "jigarrang",
+    "example": "The dog is brown."
+  },
+  {
+    "id": 183,
+    "english": "one",
+    "uzbek": "bir",
+    "example": "I have one brother."
+  },
+  {
+    "id": 184,
+    "english": "two",
+    "uzbek": "ikki",
+    "example": "She has two children."
+  },
+  {
+    "id": 185,
+    "english": "three",
+    "uzbek": "uch",
+    "example": "There are three books on the table."
+  },
+  {
+    "id": 186,
+    "english": "first",
+    "uzbek": "birinchi",
+    "example": "This is my first lesson."
+  },
+  {
+    "id": 187,
+    "english": "second",
+    "uzbek": "ikkinchi",
+    "example": "He is the second person in line."
+  },
+  {
+    "id": 188,
+    "english": "Monday",
+    "uzbek": "dushanba",
+    "example": "I work on Monday."
+  },
+  {
+    "id": 189,
+    "english": "Tuesday",
+    "uzbek": "seshanba",
+    "example": "We have English on Tuesday."
+  },
+  {
+    "id": 190,
+    "english": "Wednesday",
+    "uzbek": "chorshanba",
+    "example": "The meeting is on Wednesday."
+  },
+  {
+    "id": 191,
+    "english": "Thursday",
+    "uzbek": "payshanba",
+    "example": "I go to the gym on Thursday."
+  },
+  {
+    "id": 192,
+    "english": "Friday",
+    "uzbek": "juma",
+    "example": "Friday is my busy day."
+  },
+  {
+    "id": 193,
+    "english": "Saturday",
+    "uzbek": "shanba",
+    "example": "We stay at home on Saturday."
+  },
+  {
+    "id": 194,
+    "english": "Sunday",
+    "uzbek": "yakshanba",
+    "example": "I rest on Sunday."
+  },
+  {
+    "id": 195,
+    "english": "week",
+    "uzbek": "hafta",
+    "example": "I work five days a week."
+  },
+  {
+    "id": 196,
+    "english": "month",
+    "uzbek": "oy",
+    "example": "There are twelve months in a year."
+  },
+  {
+    "id": 197,
+    "english": "year",
+    "uzbek": "yil",
+    "example": "This year is very busy."
+  },
+  {
+    "id": 198,
+    "english": "birthday",
+    "uzbek": "tug'ilgan kun",
+    "example": "Today is my birthday."
+  },
+  {
+    "id": 199,
+    "english": "holiday",
+    "uzbek": "bayram yoki ta'til",
+    "example": "We are on holiday this week."
+  },
+  {
+    "id": 200,
+    "english": "weekend",
+    "uzbek": "hafta oxiri",
+    "example": "I visit my family at the weekend."
   }
+
 ]
